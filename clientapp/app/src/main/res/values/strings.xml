@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment 3 Client</string>
+    <string name="dialog_Message">Do you want to capture and upload image to server?</string>0
+    <string name="exit_Message">Are you sure you want to exit the app?</string>0
+    <string name="file_server_termux">http://192.168.0.110:8080</string>
+    <string name="file_server_hotspot">http://192.168.43.92:8080</string>
+    <string name="file_server_wifi">http://192.168.0.232:8080</string>
+    <string name="file_server_asu">http://10.153.47.46:8080</string>
+    <string name="file_server">http://192.168.0.110:8080</string>
+    <string name="file_server_get">http://192.168.0.110:8080/get</string>
+    <string name="file_server_pred">http://192.168.0.110:8080/receivepred</string>
+    <string name="image_key">image</string>
+    <string name="pred_key">predictions</string>
+    <string name="quadrant1">"Quadrant TopLeft"</string>
+    <string name="quadrant2">"Quadrant TopRight"</string>
+    <string name="quadrant3">"Quadrant BottomLeft"</string>
+    <string name="quadrant4">"Quadrant BottomRight"</string>
+</resources>
