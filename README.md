@@ -1,2 +1,1 @@
-# cse535-assignment2-group16
- 
+A Mobile application to capture an image and upload it onto a Flask server where the handwritten digit image will get classified using deep learning algorithm and stored in respective folders.Where there will be one main server and four client servers. The main server will divide the image into four quadrants and send it to four clients for prediction. The main server app consolidates the predictions to give the final prediction and stores the image in respective folders.
